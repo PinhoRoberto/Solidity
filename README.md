@@ -1,6 +1,6 @@
-# Solidity Fundamentals 🔗
+# Solidity 🔗
 
-Welcome to Solidity ! This repository contains my progress through blockchain development fundamentals.
+Welcome to Solidity ! 
 
 ## 📚 What's Inside
 
@@ -21,13 +21,4 @@ Welcome to Solidity ! This repository contains my progress through blockchain de
 3. **Events & Inheritance** - Contract communication and code reuse
 4. **Security Patterns** - Following best practices and avoiding common pitfalls
 
-## 🎯 Current Focus
 
-Currently working on: [Update this as you progress]
-
-## 📞 Connect
-
-Feel free to check out my progress and provide feedback!
-
----
-*"Every expert was once a beginner"* ⭐
